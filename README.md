@@ -3,6 +3,8 @@
 I am Computer Science and Intelligent Systems student at AGH University, Krakow. Passionate about coding and exploring the realm of intelligent systems. Currently honing my skills in software development and eager to contribute to innovative projects. Krakow-based enthusiast with a thirst for knowledge and a drive to make a meaningful impact in the tech world.
 
 Link to my page: https://jablon22.github.io
+Link do repo coffe: https://github.com/Jablon22/coffee
+Link do artykułu: https://paperswithcode.com/paper/how-much-coffee-was-consumed-during-emnlp
 
 <!--
 **Jablon22/Jablon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
